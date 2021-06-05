@@ -1,0 +1,436 @@
+body {
+  background: url(https://mcdn.wallpapersafari.com/medium/65/52/N4deZ1.jpg) no-repeat center center fixed;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+
+.copyright1 {
+    font-size: 20px;
+    color: #fff;
+    padding-left: 40px;
+    font-family: Arial;
+}
+
+.copyright2 {
+    font-size: 20px;
+    color: #fff;
+    padding-left: 110px;
+    font-family: Arial;
+}
+
+.copyrighticon {
+    padding-left: 660px;
+}
+
+.portofoliotext {
+    color: dodgerblue;
+    font-family: Arial;
+    padding-left: 360px;
+}
+
+.portofoliotext2 {
+    font-family: Arial;
+    color: #fff;
+}
+
+.topnav {
+  background-color: #333;
+  font-family: Arial;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  color: red;
+}
+
+
+.topnav a.active {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.aboutbackground {
+  background: url(https://i.pinimg.com/564x/b2/c5/e0/b2c5e0ad9f8eb7fb6e1646d32ae803f6.jpg) no-repeat center center fixed;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+
+.abouthello {
+    font-size: 30px;
+    font-family: Arial;
+    color: red;
+    padding-left: 380px;
+}
+
+body {
+  background-color: #47d1da;}
+p {
+  color: white;
+  font: 300 4em/150% Impact;
+  text-align: center;}
+
+
+.loading:after {
+  content: ' .';
+  animation: dots 1s steps(5, end) infinite;}
+
+@keyframes dots {
+  0%, 20% {
+    color: rgba(0,0,0,0);
+    text-shadow:
+      .25em 0 0 rgba(0,0,0,0),
+      .5em 0 0 rgba(0,0,0,0);}
+  40% {
+    color: white;
+    text-shadow:
+      .25em 0 0 rgba(0,0,0,0),
+      .5em 0 0 rgba(0,0,0,0);}
+  60% {
+    text-shadow:
+      .25em 0 0 white,
+      .5em 0 0 rgba(0,0,0,0);}
+  80%, 100% {
+    text-shadow:
+      .25em 0 0 white,
+      .5em 0 0 white;}}
+
+.contactbackground {
+  background: url(https://images.unsplash.com/photo-1596524430615-b46475ddff6e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) no-repeat center center fixed;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+
+.contacthello {
+    font-size: 30px;
+    font-family: Arial;
+    color: red;
+    padding-left: 380px;
+}
+
+.summarybackground {
+  background: url(https://i.pinimg.com/originals/93/43/6d/93436dddb3c4ce24286d36375fcc97c4.jpg) no-repeat center center fixed;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+
+.summarytext {
+    font-size: 25px;
+    padding-left: 440px;
+    color: yellow;
+}
+
+.firstpartsummary {
+    font-size: 19px;
+    font-family: Arial;
+    color: #fff;
+}
+
+.twopartsummary {
+    font-size: 19px;
+    font-family: Arial;
+    color: #fff;
+}
+
+.threepartsummary {
+    font-size: 19px;
+    font-family: Arial;
+    color: #fff;
+}
+
+.fourpartsummary {
+    font-size: 19px;
+    font-family: Arial;
+    color: #fff;
+}
+
+.summarycopyrighticon {
+    padding-left: 640px;
+}
+
+.summarycopyright1 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.summarycopyright2 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.aboutcopyrighticon {
+    padding-left: 640px;
+}
+
+.aboutcopyright1 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.aboutcopyright2 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.contactcopyrighticon {
+    padding-left: 640px;
+}
+
+.contactcopyright1 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.contactcopyright2 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.portofoliocopyrighticon {
+    padding-left: 640px;
+}
+
+.portofoliocopyright1 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.portofoliocopyright2 {
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.portofoliotext {
+    font-size: 25px;
+    padding-left: 380px;
+    color: chocolate;
+}
+
+.portofoliobackground {
+  background: url(https://images.unsplash.com/photo-1497864149936-d3163f0c0f4b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) no-repeat center center fixed;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+
+.myname {
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.myname2 {
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.myname3 {
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.myname4 {
+    font-size: 17px;
+    font-family: Arial;
+}
+
+.lorem {
+    font-size: 17px;
+    color: yellow;
+}
+
+.itsalong {
+    font-size: 17px;
+    color: yellow
+}
+
+.contrary {
+    font-size: 17px;
+    color: yellow;
+}
+
+.thereare {
+    font-size: 17px;
+    color: yellow;
+}
+
+.img2 {
+    padding-left: 40px;
+}
+
+.imgbear {
+    padding-left: 40px;
+}
+
+
+.img5 {
+    padding-left: 40px;
+}
+
+.img6 {
+    padding-left: 40px;
+}
+
+.contacttopnav {
+  background-color: #333;
+  font-family: Arial;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+
+.contacttopnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.contacttopnav a:hover {
+  color: red;
+}
+
+
+.contacttopnav a.active {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.abouttopnav {
+  background-color: #333;
+  font-family: Arial;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+
+.abouttopnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.abouttopnav a:hover {
+  color: red;
+}
+
+
+.abouttopnav a.active {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.portfoliotopnav {
+  background-color: #333;
+  font-family: Arial;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+
+.portfoliotopnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.portfoliotopnav a:hover {
+  color: red;
+}
+
+
+.portfoliotopnav a.active {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.summarytopnav {
+  background-color: #333;
+  font-family: Arial;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+
+.summarytopnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.summarytopnav a:hover {
+  color: red;
+}
+
+
+.summarytopnav a.active {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.contacttopnav {
+  background-color: #333;
+  font-family: Arial;
+  padding-left: 100px;
+  font-size: 18px;
+}
+
+
+.contacttopnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.contacttopnav a:hover {
+  color: red;
+}
+
+
+.contacttopnav a.active {
+    background-color: firebrick;
+    color: #fff;
+}
+
+.tuumy {
+    padding-left: 500px;
+}
+
+.tuumyavatartitle {
+    font-size: 18px;
+    font-family: Arial;
+    color: aqua;
+    padding-left: 1090px;
+}
