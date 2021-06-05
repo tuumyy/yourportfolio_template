@@ -2,7 +2,7 @@
 
 Acest website este un template de tip "Portfolio" !
 
-Poti modifica orice fisier , tag , class , nu ai voie sa modific CopyRight Footer !!!
+Poti modifica orice fisier , tag , class , nu ai voie sa modifici CopyRight Footer !!!
 
 Template facut in scop educational , in caz ca ai nevoie de ajutor ma poti gasi pe Discord -> TuuMy#2281
 
